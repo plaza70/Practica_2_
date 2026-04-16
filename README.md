@@ -1,10 +1,13 @@
 Guia de ejecución:
+
 Compila con g++ main.cpp -o programa.
 
 Ejecuta con ./programa (o ./programa datos.txt si usa archivo).
 
 El resultado se guarda en resultado_pinza.txt.
+
 Resumen:
+
 La práctica consiste en desarrollar un programa en C++ que analiza datos de sensores de una pinza robótica. El objetivo es procesar información sobre fuerzas aplicadas para evaluar la estabilidad del sistema.
 
 El programa lee un archivo de entrada con identificadores y valores numéricos, almacena los datos en arrays y matrices, calcula medias y compara fuerzas para determinar si el sistema es estable o no.
