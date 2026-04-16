@@ -55,7 +55,7 @@ int main() {
             estado[i] = "ESTABLE";
     }
 
-    // 🔥 SALIDA EXACTA (como el enunciado)
+    // Salida a .txt
 
     cout << "ID: " << ids[0]
          << " Galga: " << galga[0]
